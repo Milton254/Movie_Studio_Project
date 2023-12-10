@@ -1,4 +1,13 @@
 ## Movie Studio Project
+
+### **Repository Contents**
+The repository contains
+
+    -README.MD - Has project visuals & recommendations
+    -presentation.pdf - Microsoft Studio PPT
+    -Data - Folder has dataset used in the analysis
+    -images - Have the analysis ppt
+
 ### **Introduction**
 Movie analysis seeks to uncover the types of movies that are doing best in the movie industry.  The analysis aids in understanding the movie industry on the type of genres, best-performing studios, and revenue performance both in domestic and foreign markets, shedding light on the audience behavior, and offering insights on the ropes Microsoft to follow in starting a movie studio 
 ### **Application**
@@ -23,7 +32,7 @@ The analysis use datasets from
     -Box Office Mojo CSV files
     -IMDB
 
-From the data im.db has the a database with 8 tables contains movie ratings, directos,writers,persons.
+From the data im.db has the a database with 8 tables contains movie ratings, directors,writers,persons.
 
 Box Office **.csv** format has column of studio, movies produced, and gross revenue.
 This information guides to understand the type of movies that are doing well in the movie industry.
