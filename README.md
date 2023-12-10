@@ -6,12 +6,13 @@ The repository contains
     -README.MD - Has project visuals & recommendations
     -presentation.pdf - Microsoft Studio PPT
     -Data - Folder has dataset used in the analysis
-    -images - Have the analysis ppt
+    -images - Contains the visualations of the findings.
+
 
 ### **Introduction**
-Movie analysis seeks to uncover the types of movies that are doing best in the movie industry.  The analysis aids in understanding the movie industry on the type of genres, best-performing studios, and revenue performance both in domestic and foreign markets, shedding light on the audience behavior, and offering insights on the ropes Microsoft to follow in starting a movie studio 
+Movie analysis seeks to uncover the types of movies that are doing best in the movie industry.  The analysis aids in understanding the movie industry on the type of genres, best-performing studios, and revenue performance both in domestic and foreign markets, shedding light on the audience behavior, and  insights on the ropes Microsoft to follow in starting a movie studio 
 ### **Application**
-For Microsoft's venture into the movie industry, exploratory data analysis (EDA) is key in generating insights beneficial to stakeholders. To establish a successful movie studio, understanding prevalent trends in the film industry is crucial.
+For Microsoft's venture into the movie industry, exploratory data analysis (EDA) is key in generating insights beneficial to Microsoft Team. To establish a successful movie studio, understanding prevalent trends in the film industry is crucial.
 
 ### **Business Problem**
 
