@@ -91,7 +91,5 @@ An emphasis on crafting narratives centered around adventurous and thrilling exp
 **Strategic Marketing Approach:**
 
 A well-defined strategic marketing approach is pivotal for Microsoft's movie studio venture. 
-Collaborating with media houses and influencers could serve as a catalyst for expanding audience engagement. 
-Leveraging influencers to generate hype and anticipation around new movie releases has the potential to significantly amplify audience reach and engagement.
-
+Collaborating with media houses and influencers could serve as a catalyst for expanding audience engagement
 
