@@ -74,22 +74,18 @@ For the analysis we will narrow to the following key areas
 
 **Insights from Top Movies**
 
-By adapting themes similar to those of the top-selling films, Microsoft studio can better resonate with audience preferences and capture their attention effectively. Understanding and incorporating these themes into movie narratives aligns with the successful trends observed in the industry's highest-grossing films.
-The emphasis on refining visual elements akin to those prevalent in the most successful movies offers an opportunity for Microsoft's movies to elevate their appeal. Employing cutting-edge visual technologies and techniques can significantly enhance audience engagement and interest, establishing a stronger connection with viewers.
+By adapting themes similar to those of the top-selling films, Microsoft studio can better resonate with audience preferences and capture their attention effectively. Understanding and incorporating these themes into movie narratives aligns with the successful trends observed in the industry's highest-grossing films. Employing cutting-edge visual technologies and techniques can significantly enhance audience engagement and interest, establishing a stronger connection with viewers.
 
 **Gross Revenue Analysis:**
 
-The analysis highlights a consistent trend where the foreign market consistently generates revenues exceeding $40M, while the domestic market struggles to attain this benchmark. Addressing this revenue disparity requires a strategic approach focused on balancing marketing budgets between the domestic and foreign markets. Allocating resources proportionately to match the strategies employed in the foreign market could help bridge the revenue gap, potentially leading to enhanced domestic earnings.
+The analysis highlights a consistent trend where the foreign market consistently generates revenues exceeding $40M, while the domestic market struggles to attain this benchmark. Allocating resources proportionately to match the strategies employed in the foreign market could help bridge the revenue gap, potentially leading to enhanced domestic earnings.
 
 **Collaborations with Studios:**
 
-Collaborations with established studios offer invaluable opportunities, granting access to top-tier talent and a reservoir of creative expertise. This collaboration fosters a creative synergy that could significantly enhance the quality of Microsoft's movie productions.
-Implementing profit-sharing models in partnerships can mitigate risks, encourage collaborative efforts, and simultaneously bolster brand visibility. This strategy of shared success incentivizes both parties to work towards mutual goals, ensuring a win-win situation for everyone involved.
-
+Collaborations with established studios offer invaluable opportunities, granting access to top-tier talent and a reservoir of creative expertise for brand visibility and reduce risks in losses and producing quality movies.
 **Genre-Centric Recommendations:**
 
 An emphasis on crafting narratives centered around adventurous and thrilling experiences across various movie genres provides a strategic direction for Microsoft's studio. Incorporating these thematic elements aligns with audience preferences, potentially captivating diverse viewer segments.
-Incorporating action scenes across a spectrum of movie genres represents a strategic move to establish Microsoft's movie studio as more relevant and appealing to a broader demographic. This strategy aims to cater to a wide array of audience preferences within the cinematic landscape.
 
 **Strategic Marketing Approach:**
 
